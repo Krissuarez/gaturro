@@ -15,9 +15,6 @@ let menu =`
  ‖ 💖 *¡𝗛ola! ${username}* 💖
  ‖    ֎┉┉┉┉┉┉⊰ 🌟 ⊱┉┉┉┉┉┉┉֍
  ‖
- ‖⇛ 🔖 _${usedPrefix}donar_
- ‖⇛ 🔖 _${usedPrefix}infobot_
- ‖⇛ 🔖 _${usedPrefix}creditos_ 
  ‖⇛ 🔖 _${usedPrefix}reglas_
  ‖⇛ 🔖 _${usedPrefix}grupos_
  ‖⇛ 🔖 _${usedPrefix}estado_
