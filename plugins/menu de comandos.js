@@ -21,9 +21,6 @@ let menu =`
 ┏━━━━━━━━━━━━━━━━━━┓
 ┃ *INFORMACIÓN|MENUS*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ ↠⚜️ _${usedPrefix}donar_
-┣ ↠⚜️ _${usedPrefix}creditos_
-┣ ↠⚜️ _${usedPrefix}infobot_
 ┣ ↠⚜️ _${usedPrefix}grupos_
 ┣ ↠⚜️ _${usedPrefix}reglas_
 ┣ ↠⚜️ _${usedPrefix}menuaudios_
@@ -40,12 +37,6 @@ let menu =`
 ┣ ↠✅ _${usedPrefix}cuentasgb_
 ┗━━━━━━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━━━━━━┓
-┃ *OBTENER A GATABOT*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ ↠🛎 _${usedPrefix}instalarbot_
-┣ ↠🛎 _${usedPrefix}procesobot_
-┗━━━━━━━━━━━━━━━━━━┛
-┏━━━━━━━━━━━━━━━━━━┓
 ┃ *REPORTA FALLOS DE COMANDOS*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┃ *Reporta cualquier comando que falle*   
@@ -54,12 +45,6 @@ let menu =`
 ┣ ↠📮 _${usedPrefix}bug *tal comando con fallas*_
 ┣ ↠📮 _${usedPrefix}report *tal comando con fallas*_
 ┣ ↠📮 _${usedPrefix}reporte *tal comando con fallas*_
-┗━━━━━━━━━━━━━━━━━━┛
-┏━━━━━━━━━━━━━━━━━━┓
-┃ *NÚMERO DEl PROPIETARIO/A*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ ↠🐈 _${usedPrefix}owner_
-┣ ↠🐈 _${usedPrefix}contacto_
 ┗━━━━━━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━━━━━━┓
 ┃ *UNE UN BOT A TU GRUPO*
