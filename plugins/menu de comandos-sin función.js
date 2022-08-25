@@ -32,11 +32,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 ┏━━━━━━━━━━━━━━━━━━┓
 ┃ *INFORMACIÓN|MENUS*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡ 
-┣ ↠⚜️ _${usedPrefix}donar_
-┣ ↠⚜️ _${usedPrefix}creditos_ 
-┣ ↠⚜️ _${usedPrefix}infobot_
 ┣ ↠⚜️ _${usedPrefix}grupos_
-┣ ↠⚜️ _${usedPrefix}instalarbot_
 ┣ ↠⚜️ _${usedPrefix}reglas_
 ┣ ↠⚜️ _${usedPrefix}menusimple_
 ┣ ↠⚜️ _${usedPrefix}menuaudios_
@@ -55,12 +51,6 @@ let handler = async (m, { conn, usedPrefix }) => {
 ┣ ↠📮 _${usedPrefix}bug *tal comando con fallas*_
 ┣ ↠📮 _${usedPrefix}report *tal comando con fallas*_
 ┣ ↠📮 _${usedPrefix}reporte *tal comando con fallas*_
-┗━━━━━━━━━━━━━━━━━━┛
-┏━━━━━━━━━━━━━━━━━━┓
-┃ *NÚMERO DEl PROPIETARIO/A*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ ↠🐈 _${usedPrefix}owner_
-┣ ↠🐈 _${usedPrefix}contacto_
 ┗━━━━━━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━━━━━━┓
 ┃ *UNE UN BOT A TU GRUPO*
